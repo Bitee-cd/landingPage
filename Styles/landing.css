@@ -110,7 +110,7 @@ top:200px;
     margin-top: 100px;
   }
   .thatBox {
-    padding-top: 715px;
+    padding-top: 725px;
     position: absolute;
   }
   .thirdRow {
@@ -125,15 +125,16 @@ top:200px;
   .makee{
     padding-top:10px;
   }
-  .thatBox{
-    padding-top:630px;
-  }
   .theOtherBox{
-    padding-top:0;
+    padding-top:50px;
   }
   .report .btn {
     width: 200px;
    padding-right:10px;
+  }
+  .thisBox{
+    padding-top:750px;
+    position:absolute
   }
 }
 .round {
