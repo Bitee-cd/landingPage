@@ -117,10 +117,23 @@ top:200px;
     margin-top: 100px;
   }
   footer {
-    margin-top: 100px;
+    margin-top: 120px;
   }
   .icon{
     height:20px;
+  }
+  .makee{
+    padding-top:10px;
+  }
+  .thatBox{
+    padding-top:630px;
+  }
+  .theOtherBox{
+    padding-top:0;
+  }
+  .report .btn {
+    width: 200px;
+   padding-right:10px;
   }
 }
 .round {
